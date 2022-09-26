@@ -1,0 +1,26 @@
+{
+    "configs":
+        {
+            "Name": "DukeMTMC",
+            "n_class": 702,
+            "lr": 2e-4,
+            "lr_decay": 40,
+            "height": 256,
+            "width": 128,
+            "ratio": 16,
+            "save epoch": 5,
+            "tri_margin": 0.9,
+            "warm up": 5,
+            "interval": 5,
+            "w_tri": 1,
+            "w_sim": 0.5,
+            "w_id": 0.05,
+            "w_recon": 0.0005,
+            "re_rank":
+                {
+                    "k1": 20,
+                    "k2": 3,
+                    "lambda": 0.05
+                }
+        }
+}
