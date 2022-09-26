@@ -58,7 +58,7 @@ If you use Celeb-reID dataset, Celeb-reID-light dataset or VC-Clothes dataset, j
 
 ### Results
 <img src="./images/comparison.png"></center>
-You can download pre-trained models [here](https://o365seoultech-my.sharepoint.com/:f:/r/personal/20512067_officestu_seoultech_ac_kr/Documents/SirNet%20model?csf=1&web=1&e=DL3c5n).
+You can download pre-trained models [here](https://o365seoultech-my.sharepoint.com/:f:/g/personal/20512067_officestu_seoultech_ac_kr/Ene_Gnt3aktOumAr16_8ixABeo1rPUox98gs-fC7oLEHXA?e=yo73xd).
 
 ## License
 Our code and the models/AdaINGenerator.py is under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) (**Attribution-NonCommercial-ShareAlike 4.0 International**). You can check [here](https://github.com/NVlabs/DG-Net) for models/AdaINGenerator.py.
