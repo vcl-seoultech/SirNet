@@ -16,6 +16,7 @@ This is the official code of our **"Sampling Agnostic Feature Representation for
 - CUDA 11.0
 - Pytorch 1.7.1
 - Sklearn 0.24.1
+- processingtools=0.2.5
 
 Please check *requirements.txt* for other packages.
 

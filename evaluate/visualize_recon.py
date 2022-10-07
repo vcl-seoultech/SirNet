@@ -79,7 +79,7 @@ def recon_one(save_path: str, i, model, img, pid=None, img_mix=None, ratio=None)
     :param model: input network
     :param img: a normalized image
     :param pid: a image class
-    :param img_mix: a back ground image to mix with imgs
+    :param img_mix: a background image to mix with imgs
     :param ratio: ratio of id features
     :return:
     """
