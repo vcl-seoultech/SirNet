@@ -3,7 +3,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.1-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 # SirNet
-[[Project]](https://vcl.seoultech.ac.kr/research.html) [Paper] [[arXiv]](https://arxiv.org/abs/2209.09574)
+[[Project]](https://vcl.seoultech.ac.kr/research.html) [[Paper]](https://ieeexplore.ieee.org/document/9923634) [[arXiv]](https://arxiv.org/abs/2209.09574)
 
 This is the official code of our **"Sampling Agnostic Feature Representation for Long-Term Person Re-identification"**, IEEE Transactions on Image Processing (TIP), 2022.
 
